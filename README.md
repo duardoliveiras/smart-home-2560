@@ -7,22 +7,22 @@ O objetivo desse sistema é automatizar processos dentro de uma residência, per
 ### Pré-requisitos
 
 * 1 - Plataforma de prototipagem Arduino MEGA
-* 1 - Sensor de gásMQ-2
-* 1 - AlarmeBuzzer 5V
-* 1 - Visor LCDLCD I2C 16x2
-* 1 - Transmissor infravermelhoLED IR
-* 1 - Receptor infravermelhoIR VS1838B
-* 1 - Módulo EthernetENC28J60
-* 1 - Sensor de ChuvaRain Drop MH-RD
-* 1 - BotãoButton Switch
-* 1 - Sensor de presençaPIR HC-SR5011
-* 2 - Sensor de temperaturaDS18B20
-* 2 - ProtoboardProtoboard 400 furos
-* 2 - Resitência sensores temperatura4.7k Ohm
-* 1 - Resistência botão10k Ohm
-* 1 - Resistência LED IR10 Ohm
-* 10 - Fio de conexãoJumper Fêmea 20cm
-* 35 - Fio de conexãoJumper Macho 20cm
+* 1 - Sensor de gás MQ-2
+* 1 - Alarme Buzzer 5V
+* 1 - Visor LCD I2C 16x2
+* 1 - Transmissor infravermelho
+* 1 - Receptor infravermelho VS1838B
+* 1 - Módulo Ethernet ENC28J60
+* 1 - Sensor de Chuva Rain Drop MH-RD
+* 1 - Botão Switch
+* 1 - Sensor de presença PIR HC-SR5011
+* 2 - Sensor de temperatura DS18B20
+* 2 - Protoboard 400 furos
+* 2 - Resitência sensores p/ temperatura de 4.7k Ohm
+* 1 - Resistência p/ botão de 10k Ohm
+* 1 - Resistência p/ LED IR de 10 Ohm
+* 10 - Fio de conexão Jumper Fêmea 20cm
+* 35 - Fio de conexão Jumper Macho 20cm
 
 
 ## Bibliotecas Utilizadas:
