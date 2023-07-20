@@ -1,5 +1,7 @@
 ## Smart Home 2560
 
+![alt text](esquematico_projeto.png)
+
 Desenvolvemos um sistema embarcado usando a plataforma Arduino Mega 2560, equipado com o microcontrolador ATMEGA2560. O projeto possui diversos sensores, incluindo um sensor de umidade, sensor de temperatura interno e externo, sensor de presença, receptor infravermelho e sensor de gás. Também conta com atuadores, como buzzer, display LCD e emissor infravermelho.
 
 O objetivo desse sistema é automatizar processos dentro de uma residência, permitindo o controle por meio de uma página WEB utilizando um conector LAN. Isso possibilita ajustar configurações, monitorar os sensores em tempo real e tomar decisões para melhorar o conforto, segurança e eficiência energética do lar.
@@ -46,3 +48,5 @@ e realizar o upload no arduino atráves do `Arduino IDE`. Ou também você pode 
 ## Expressões de gratidão
 
 * Gostaria de agradecer ao professor Doutor Jésus Franco Bueno por sua orientação e apoio no ensino de sistemas embarcados e microcontroladores.
+
+![alt text](esquematico_real.jpg)
