@@ -32,8 +32,8 @@ O objetivo desse sistema é automatizar processos dentro de uma residência, per
 * .[LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C?utm_source=platformio&utm_medium=piohome)
 
 ## Começando
-Para rodar o projeto você pode estar utilizando do código fonte disponível na pasta /scr e também as bibliotecas
-e realizar o upload no arduino atráves do ´Arduino IDE. Ou também você pode clonar essa pasta e abrir utilizando o ´plataformIO´ onde será possível realizar o upload juntamente das bibliotecas utilizadas
+Para rodar o projeto você pode estar utilizando do código fonte disponível na pasta `/scr` e também as bibliotecas
+e realizar o upload no arduino atráves do `Arduino IDE`. Ou também você pode clonar essa pasta e abrir utilizando o `plataformIO` onde será possível realizar o upload juntamente das bibliotecas utilizadas
 
 ## Autores
 * **[Eduardo Oliveira](https://github.com/duardoliveiras)**
